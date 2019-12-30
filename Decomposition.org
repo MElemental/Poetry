@@ -1,7 +1,7 @@
 #+TITLE: Change
 * Sonnet 1
 
-* Poem
+** Poem
 
 others think of others as one and whole.
 but is this thought even a valient goal?
